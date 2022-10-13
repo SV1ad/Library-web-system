@@ -1,0 +1,20 @@
+│   .gitignore
+│   README.MD
+├───docs # destination folder
+└───src # source folder
+    │   context.md
+    │   context.puml
+    └───Internet Banking System
+        │   system.puml
+        │   system.md
+        ├───API Application
+        │       container.puml
+        │       container.md
+        └───Single Page Application
+            │   container.puml
+            │   container.md
+            └───Additional Information
+                    additionalDetails.md
+                    class.puml
+                    sequence.puml
+                    class.1.md
